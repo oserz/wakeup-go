@@ -26,15 +26,15 @@
 
 ### 对应的二进制文件下载
 
-  ![mips wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/mips/wakeup)
+  [mips wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/mips/wakeup)
 
-  ![mipsle wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/mipsle/wakeup)
+  [mipsle wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/mipsle/wakeup)
 
-  ![arm wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/arm/wakeup)
+  [arm wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/arm/wakeup)
 
-  ![x86 wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/x86/wakeup)
+  [x86 wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/x86/wakeup)
 
-  ![amd64 wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/amd64/wakeup)
+  [amd64 wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/amd64/wakeup)
 
 
 ### 最后
