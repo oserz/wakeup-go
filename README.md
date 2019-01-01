@@ -1,4 +1,4 @@
-## Wakeup-go
+## wakeup-go
 
 这个项目是用go语言开发，为了能在路由器或其他长开机的兼容设备上运行，以方便在支持WOL的机器上的远程开机。由go-wol代码修改而来，感谢原作者
 
@@ -24,4 +24,23 @@
 * 如果是在路由上运行，请root路由，确保ssh可登陆，并拷贝对应的二进制文件及wakesh.sh
 * 运行命令`chmod +x wakesh.sh chmod +x wakeup ./wakesh.sh`
 
-### 下载
+### 对应的二进制文件下载
+
+  ![mips wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/mips/wakeup)
+
+  ![mipsle wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/mipsle/wakeup)
+
+  ![arm wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/arm/wakeup)
+
+  ![x86 wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/x86/wakeup)
+
+  ![amd64 wakeup](https://github.com/oserz/wakeup-go/tree/master/bin/amd64/wakeup)
+
+
+### 最后
+
+如果这个项目对您有帮助，请点个赞，当然如果能打赏一点就更感谢啦
+
+![](/img/zfb.jpg)
+
+![](/img/wx.jpg)
