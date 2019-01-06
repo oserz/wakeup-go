@@ -22,7 +22,14 @@
 
 * 打开wakesh.sh文件，第二行中在MAC_ADDR=后填入要开启机器的mac地址
 * 如果是在路由上运行，请root路由，确保ssh可登陆，并拷贝对应的二进制文件及wakesh.sh
-* 运行命令`chmod +x wakesh.sh chmod +x wakeup ./wakesh.sh`
+* 运行命令
+```
+chmod +x wakesh.sh 
+
+chmod +x wakeup 
+
+./wakesh.sh
+```
 
 ### 对应的二进制文件下载
 
